@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class entradaDeDados {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -9,7 +8,7 @@ public class entradaDeDados {
         int age;
         double salary;
         System.out.println("Digite seu nome: ");
-        name = sc.next();
+        name = sc.nextLine();
 
         System.out.println("Digite sua idade: ");
         age = sc.nextInt();

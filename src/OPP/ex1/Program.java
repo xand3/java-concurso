@@ -1,9 +1,9 @@
-package OPP.application;
+package OPP.ex1;
 
-import OPP.application.entities.Triangle;
+import OPP.ex1.entities.Triangle;
 
 import java.util.Scanner;
-// PROGRAMA SEM UTILIZAR POO
+
 public class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

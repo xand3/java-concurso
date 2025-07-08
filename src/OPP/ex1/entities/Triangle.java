@@ -1,4 +1,4 @@
-package OPP.application.entities;
+package OPP.ex1.entities;
 
 public class Triangle {
     public double a;
